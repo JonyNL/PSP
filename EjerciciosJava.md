@@ -54,7 +54,6 @@ Por ejemplo si fueramos a crear más de un constructor para la clase *Lamp* del 
 en la clase: 
 
 ```Java
-
 // Constructor vacío
 public Lamp() {
 
@@ -144,4 +143,6 @@ class Lamp extends Furnishing {
 
 * **Interface**
 
+Las interfaces son más o menos una plantilla que incluye la cabecera de los metodos que las subclases tienen que implementar. También
+puede incluir variables finales o constantes que serían accesibles por otras clases.
 
