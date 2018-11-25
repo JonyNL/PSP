@@ -1,6 +1,6 @@
 # PSP
-## Ejercicios
-### Elementos y conceptos Java:
+## Ejercicios Java
+### Elementos y conceptos:
 * **Clase**
 
 Una clase en java es una plantilla o prototipo para la creación de objetos.  
