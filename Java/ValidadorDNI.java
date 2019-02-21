@@ -1,4 +1,3 @@
-```Java
 import java.util.Scanner;
 
 public class ValidadorDNI {
@@ -34,4 +33,3 @@ public class ValidadorDNI {
 		sc.close();
 	}
 }
-```
