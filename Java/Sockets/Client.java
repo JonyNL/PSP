@@ -14,7 +14,6 @@ public class Client
             InetAddress serverAddress = InetAddress.getByName("localhost") ;
             System.out.println("server ip address: " + serverAddress.getHostAddress());
             Socket socket = new Socket(serverAddress, 9090);
-            boolean connected = true;
             PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
             BufferedReader input = new BufferedReader(new InputStreamReader(socket.getInputStream()));
             System.out.println(input.readLine());
