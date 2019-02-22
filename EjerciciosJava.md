@@ -49,8 +49,7 @@ La sobrecarga de métodos te permite indicar diferentes formas de implementar un
 parámetros que esté recibiendo cuando se ejecuta.  
 Funciona de la misma manera para los constructores de una clase.
 
-**Ejemplo**  
-Por ejemplo si fueramos a crear más de un constructor para la clase *Lamp* del ejemplo anterior, podríamos añadir lo siguiente
+**Ejemplo**  Por ejemplo si fueramos a crear más de un constructor para la clase *Lamp* del ejemplo anterior, podríamos añadir lo siguiente
 en la clase: 
 
 ```Java
