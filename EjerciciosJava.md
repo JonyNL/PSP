@@ -69,7 +69,8 @@ La herencia consiste en una clase que hereda variables y métodos de otra, que e
 Esto nos permite crear una clase desde la que poder usar todos los metodos y variables de otra sin tener que
 volver a crearlos.
 
-**Ejemplo**  Si nos basamos en la siguiente clase:
+**Ejemplo**  
+Si nos basamos en la siguiente clase:
 ```Java
 class Furnishing {
   \\ Variables de instancia
