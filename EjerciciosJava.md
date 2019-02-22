@@ -49,7 +49,8 @@ La sobrecarga de métodos te permite indicar diferentes formas de implementar un
 parámetros que esté recibiendo cuando se ejecuta.  
 Funciona de la misma manera para los constructores de una clase.
 
-**Ejemplo**  Por ejemplo si fueramos a crear más de un constructor para la clase *Lamp* del ejemplo anterior, podríamos añadir lo siguiente
+**Ejemplo**  
+Por ejemplo si fueramos a crear más de un constructor para la clase *Lamp* del ejemplo anterior, podríamos añadir lo siguiente
 en la clase: 
 
 ```Java
@@ -112,7 +113,7 @@ System.out.print(l2.getColor());
 El polimorfismo es una característica de la programación orientada a objetos que nos permite realizar una misma acción de
 formas diferentes dependiendo de que clase la implemente.
 
-**Ejemplo**
+**Ejemplo**  
 Si en nuestra super clase *Furnishing* creada anteriormente implementamos un método para calcular un precio de transporte genérico,
 pero también queremos poner precios específicos dependiendo del elemento transportado, podemos hacer:  
 En la super clase
