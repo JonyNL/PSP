@@ -43,8 +43,7 @@ class ClassObjectsExample {
 ```
 
 
-* **Sobrecarga de métodos**
-
+* **Sobrecarga de métodos**  
 La sobrecarga de métodos te permite indicar diferentes formas de implementar un método dependiendo de la cantidad y tipo de
 parámetros que esté recibiendo cuando se ejecuta.  
 Funciona de la misma manera para los constructores de una clase.
@@ -65,15 +64,12 @@ public Lamp(boolean isOn) {
 ```
 
 
-* **Herencia**
-
+* **Herencia**  
 La herencia consiste en una clase que hereda variables y métodos de otra, que es considerada la *super clase*.  
 Esto nos permite crear una clase desde la que poder usar todos los metodos y variables de otra sin tener que
 volver a crearlos.
 
-**Ejemplo**
-
-Si nos basamos en la siguiente clase:
+**Ejemplo**  Si nos basamos en la siguiente clase:
 ```Java
 class Furnishing {
   \\ Variables de instancia
@@ -141,8 +137,7 @@ class Lamp extends Furnishing {
 ```
 
 
-* **Interface**
-
+* **Interface**  
 Las interfaces son más o menos una plantilla que incluye la cabecera de los metodos que las subclases tienen que implementar. También
 puede incluir variables finales o constantes que serían accesibles por otras clases.
 
